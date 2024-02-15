@@ -20,19 +20,15 @@ gcc nbody.c -o nsim -lGL -lGLU -lglut -fopenmp -lm -ldl
 ```bash
 ./nsim 0.001 50 1
 ```
-<video controls>
-    <source src="doc/1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
+https://github.com/owolabioromidayo/nbody_simulation/assets/37741645/02768d12-e0e2-49af-9e8a-c160e18c5777
+   
 ### Random Configuration (1000 bodies) with paths off
 ```bash
 ./nsim 0.01 1000 0
 ```
-<video controls>
-    <source src="doc/2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+https://github.com/owolabioromidayo/nbody_simulation/assets/37741645/af1c185f-754c-426b-9e2a-1232d1e38310
+
 
 ## MOVEMENT
 You can move around using WASD for up,down,left,right, Q and E for forwards and
