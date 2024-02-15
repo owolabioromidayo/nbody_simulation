@@ -11,7 +11,7 @@
 
 
 #define G  0.000006  // Gravitational constant ofr this sim
-#define SHOW_PATHS 0 // ideally only show paths for <50 bodies , else it gets very slow
+#define SHOW_PATHS 1 // ideally only show paths for <50 bodies , else it gets very slow
 #define MAX_POINTS 1000 // Maximum number of points per body
 #define USE_OPENMP 1 
 #define STAR_MASS 100000.0
